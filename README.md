@@ -1,2 +1,3 @@
-# Java_Curso
-Curso de Java para pŕacticar
+# Control de usuarios
+
+## Pasos para iniciar el proyecto
